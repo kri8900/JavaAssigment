@@ -1,0 +1,20 @@
+Assignment Questions 
+Name :krishna kumar
+
+Q.1 what is a computer?
+Ans. A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically. Modern digital electronic computers can perform generic sets of procedures known as programs.
+Q.2 What is RAM?
+Ans. RAM (random-access memory) is a form of data storage used in computers since the beginning of time. It serves as the computer system's main memory, making it easy to find specific information fast.
+Q.3 Where is data stored in a computer?
+Ans.  All data stored on storage media, such as hard disk drives (HDDs), solid state drives (SSDs), external hard drives, USB sticks, and SD cards, can be converted into a series of bits, also known as binary digits.
+Q4. What is that input device used to type text and numbers on a document in the computer system?
+Ans. The keyboard is an input device that allows you to enter letters, numbers, and symbols into your computer. 
+Q5. What are the output devices?
+Ans.  Output devices convert the computer data to the human understandable form. 
+We give input to the computer using input devices and the computer performs operations on the data and displays the output to the user using the output device. Ex monitor, printer, headphones, etc.
+Q.6 Which is the input device that allows a user to move the cursor or pointer on the screen?
+Ans. Mouse. A mouse is a small handheld device pushed over a horizontal surface. A mouse moves the graphical pointer by being slid across a smooth surface.
+Q.7 Which language is directly understood by the computer without a translation program?
+Ans. machine language or binary language.
+Q.8 what are input devices?
+Ans. An input device transmits data to a computer and allows you to communicate with it and control it. Devices are a keyboard, mouse, joystick, scanner, etc.
